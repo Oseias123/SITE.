@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHEL8EEQF79ZihsgUTmv-3l8u5pTm-W80og&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.log2{
+    max-height: 80vh;
+}
+.log1{
+    max-width: 85vh;
+}
+.game{
+    display: table;
+}
+.img{
+    display: table-cell;
+    float: left;
+    margin-left: 15px;
+}
+.texto{
+    display: table-cell;
+    float: left;
+    margin-left: 15px;
+}
+
