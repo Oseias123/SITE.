@@ -5,7 +5,7 @@
 }
 a{
     text-decoration: none;
-    color:rgb(0, 0, 0)
+    color:rgb(255, 249, 249)
 }
 body{
     background-image: url(https://www.legitreviews.com/wp-content/uploads/2013/09/Ubisoft-Assassins-Creed.jpg);
@@ -29,7 +29,7 @@ header{
     margin-left: 300px;
     margin-top: -110px;
     padding: 1px;
-    background-color: rgb(12, 12, 12);
+    background-color: rgb(0, 0, 0);
 }
 .nav-bar{
     display: flex;
@@ -39,7 +39,7 @@ header{
     top: 0px;
     right: 4px;
     width: 98vw;
-    background-color: rgba(10, 2, 2, 0.712);
+    background-color: rgba(78, 1, 1, 0.856);
 }
 h1{
     margin-top: 7rem;
@@ -80,7 +80,7 @@ h3{
     background-image: url(imagens/fundo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: rgba(4, 0, 255, 0.603);
+    color: rgba(43, 21, 21, 0.87);
 }
 .img1{
     margin-left: 15px;
@@ -104,7 +104,7 @@ h3{
 .nav-link {
     text-decoration: none;
     font-size: 1.15rem;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 245, 245);
     font-weight: 400;
 }
 
@@ -115,14 +115,14 @@ h3{
     min-width: 10px;
     padding: 10px 15px;
     border-radius: 5px;
-    background-color: #000000;
+    background-color: #860505;
     margin-left: 278px;
     margin-top: 10px;
 }
 
 .login-button button a {
     text-decoration: none;
-    color: rgb(230, 19, 19);
+    color: rgb(0, 0, 0);
     font-weight: 500;
     font-size: 1.1rem;
 }
