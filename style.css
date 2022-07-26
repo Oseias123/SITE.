@@ -13,11 +13,6 @@ body{
     background-size: cover;
 }
 
-
-
-
-
-
 button{
     cursor: pointer;
 }
@@ -26,20 +21,20 @@ header{
 }
 .fix{
     position: fixed;
-    margin-left: 300px;
+    margin-left: 30px;
     margin-top: -110px;
     padding: 1px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(143, 112, 112);
 }
 .nav-bar{
     display: flex;
     justify-content: space-between;
-    padding: 15px;
+    padding: 5px;
     position: fixed;
     top: 0px;
     right: 4px;
     width: 98vw;
-    background-color: rgba(78, 1, 1, 0.856);
+    background-color: rgba(71, 35, 35, 0.856);
 }
 h1{
     margin-top: 7rem;
@@ -80,7 +75,7 @@ h3{
     background-image: url(imagens/fundo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: rgba(43, 21, 21, 0.87);
+    color: rgba(26, 22, 22, 0.87);
 }
 .img1{
     margin-left: 15px;
@@ -104,7 +99,7 @@ h3{
 .nav-link {
     text-decoration: none;
     font-size: 1.15rem;
-    color: rgb(0, 0, 0);
+    color: rgb(17, 15, 15);
     font-weight: 400;
 }
 
@@ -115,14 +110,14 @@ h3{
     min-width: 10px;
     padding: 10px 15px;
     border-radius: 5px;
-    background-color: #860505;
+    background-color: #ff1010;
     margin-left: 278px;
     margin-top: 10px;
 }
 
 .login-button button a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(83, 47, 47);
     font-weight: 500;
     font-size: 1.1rem;
 }
@@ -176,4 +171,12 @@ h3{
 }
 .icon{
     max-height: 60px;
+}
+.hide{
+    display: none;
+    align-items: right;
+}
+#id Cadastro{
+    display: none;
+    align-items: right;
 }

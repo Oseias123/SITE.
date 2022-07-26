@@ -13,4 +13,7 @@ function menuShow() {
         menuMobile.classList.add('open');
        
     }
-  
+   function Cadastro (){
+    let Cadastro = document.getElementById("Cadastro");
+     Cadastro.classList.toggle("hide")
+   }
